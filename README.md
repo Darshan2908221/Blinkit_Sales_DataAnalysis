@@ -4,7 +4,7 @@ Blinkit Sales Data Analysis
 Author : Darshan Naik
 
 The Data set includes columns such as:
-
+<br>
 1]Fat content:
   Low Fat, Regular Fat
 2]Item Identifier: 
