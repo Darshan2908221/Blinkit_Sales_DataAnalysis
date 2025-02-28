@@ -8,24 +8,43 @@ The Data set includes columns such as:
 1]Fat content:
 <br>
   Low Fat, Regular Fat
+<br>
 2]Item Identifier: 
+<br>
     Unique Item code for each item
+    <br>
 3]Item Type:
+<br>
     Baking goods, Bread, Breakfast, canned, Dairy, Frozrn foods, Fruits and Vegetables, Hard drinks, Health and Hygiene
+    <br>
     Household, Meat, seafood, Snackfood, starchy, soft drinks, others
+    <br>
 4]Outlet Establishment Year:
+<br>
     2012, 2014, 2015, 2016, 2017, 2018, 2020, 2021, 2022
+    <br>
 5]Outlet Identifier:
+<br>
     Unique identifier for each year
+    <br>
 6]Outlet Location type:
+<br>
     Tier 1, Tier 2, Tier3
+    <br>
 7]Outlet size:
+<br>
     Small, Medium, High
+    <br>
 8]Outlet type:
+<br>
     Grocery store, supermarket type 1, supermarket type 2, supermarket type 3
+    <br>
 9]Item weight
+<br>
 10]Sales
+<br>
 11]Rating
+<br>
 
 Process followed:
 Data cleaning, Data visualisation
