@@ -6,6 +6,7 @@ Author : Darshan Naik
 The Data set includes columns such as:
 <br>
 1]Fat content:
+<br>
   Low Fat, Regular Fat
 2]Item Identifier: 
     Unique Item code for each item
